@@ -1,0 +1,12 @@
+pygame
+python-dotenv
+pyaudio
+sounddevice
+websockets
+numpy
+mss
+pyautogui
+matplotlib
+Pillow
+replicate
+openai
